@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial;
+  width: 1200px;
+  font-size: 25px;
+  color: white;
+  margin: auto;
+
+  background-image: url();
+}
+#content {
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 70%;
+  padding: 20px;
+}
+
+a:focus,
+a:hover {
+  font-style: italic;
+}
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+header {
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  font-size: 175%;
+  color: #012d74;
+}
+#nau {
+  float: left;
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+}
+#acm {
+  float: right;
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+#nav_menu ul {
+  list-style-type: none;
+
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#nav_menu ul li {
+  float: left;
+}
+#nav_menu ul li a {
+  display: block;
+  width: 240px;
+  text-align: center;
+  padding: 0.5em 0;
+  text-decoration: none;
+  background-color: #4098c7;
+  color: white;
+  font-weight: bold;
+}
+/* the styles for the footer */
+footer {
+  background-color: #4098c7;
+  clear: both;
+  bottom: 0cm;
+  left: 0cm;
+}
+footer p {
+  text-align: center;
+  color: white;
+  padding: 1em 0;
+}
+
+div {
+  background-color: lightblue;
+  width: 800px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+}
+a:visited {
+  color: blanchedalmond;
+}
