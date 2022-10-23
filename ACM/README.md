@@ -9,6 +9,5 @@ up to date all the time as club is actively working and never
 stops during school time.<br>
 -Future Enhancements needed:
 Addition of "Event Calender".
-Creating and using Database to store received data from the forms.
 Publishing the website officially at NAU.
 Using bootstrap to improve the design.
