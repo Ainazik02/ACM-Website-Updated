@@ -1,5 +1,5 @@
 # ACM-website
-As a member of ACM and ACM-W club, created a website which was published in our University's official page.<br>
+As a member of ACM and ACM-W club, created website to make easy to reach importnt resources at University and learn more/join the club.<br>
 -Total HTML Pages: 8<br>
 -Languages used: JavaScript, PHP, MySQL, HTML/CSS.<br>
 -Hours of Work: 50<<br>
